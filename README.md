@@ -10,8 +10,6 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YuriDomaradzki&color=yellow" alt="Profile views" /> </p>
-
 #### &nbsp;Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-yuridomaradzki@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuridomaradzki@gmail.com)](mailto:yuridomaradzki@gmail.com)
 
